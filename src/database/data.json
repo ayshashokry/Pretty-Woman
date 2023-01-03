@@ -1,0 +1,605 @@
+[
+  {
+    "id": "1b5c6283-ae80-42b8-ac96-6704228c8c89",
+    "factoryCode": "3005",
+    "name": "Tinted Lids",
+    "description": "Long Wear Eyeliner\n  Powder Water Soluble",
+    "category": "Eyes",
+    "type": "Eyeliner",
+    "imgs": [
+      "https://lh6.googleusercontent.com/UamnlG0TW6IVlTPTE_JfpLcRy6gSWqiEA66Z0zyuWoRFzKO3Wg69KgrizgiDbTpjpKE=w2400",
+      "https://lh6.googleusercontent.com/r9E9j07dOzsgrVJdK6XzQr3RwE3-5DrqufO-WabyhQsSDxkVv_7YMVSfwZ57W5bh_AM=w2400"
+    ]
+  },
+  {
+    "id": "cfde56cf-9b45-4c41-b106-a9007ce60858",
+    "factoryCode": "9953",
+    "name": "Blusher Roulette",
+    "description": "Blusher",
+    "category": "Face",
+    "type": "Blusher",
+    "imgs": [
+      "https://lh5.googleusercontent.com/xl5hLXtjKuhbE8RgyIXzD1Deorj3StyI_z3QmyQjnG8RcnXZmLPCl7yXuRsTcEQf4u0=w2400"    ],
+    "palette": [
+      "https://lh5.googleusercontent.com/xl5hLXtjKuhbE8RgyIXzD1Deorj3StyI_z3QmyQjnG8RcnXZmLPCl7yXuRsTcEQf4u0=w2400"
+    ]
+  },
+  {
+    "id": "a5a4c267-2f10-4f3d-ac74-702e374429ac",
+    "factoryCode": "5068",
+    "name": "Angelic Skin Care",
+    "description": "Contour Cream",
+    "category": "Face",
+    "type": "Contour",
+    "imgs": [
+      "https://lh3.googleusercontent.com/luNHMmsQ0U8ErQSzU2YWBCJbshG7Wa1852Vafw1w8Ivh9kjzHLDDKENRHRA7vwGV1g0=w2400",
+      "https://lh5.googleusercontent.com/SxNxlRpRfxvJ4kUNrW9yAY48kTN39p0GJtzT16v9XQaHwn3yfP92ATR9vM8Ievekjks=w2400"
+    ],
+    "palette": [
+      "https://lh3.googleusercontent.com/luNHMmsQ0U8ErQSzU2YWBCJbshG7Wa1852Vafw1w8Ivh9kjzHLDDKENRHRA7vwGV1g0=w2400"
+    ]
+  },
+  {
+    "id": "23a6ab46-ce18-4ae4-ac8a-2206deabdb64",
+    "factoryCode": "832",
+    "name": "2x1 Blemish Control",
+    "description": "Compact Powder",
+    "category": "Face",
+    "type": "Powder",
+    "imgs": [
+      "https://lh6.googleusercontent.com/hppY25Ce8rVClOGzCl4Subaws6Oj0a_r0zTVOO7QocGgpcXaLIWjsRHcoZecJEQaF2Q=w2400",
+      "https://lh5.googleusercontent.com/4WgwMYO9Eave2RQYEHLYTUndevOt4waOkmQnLlHjbR1tMcMdQuAU2vF1SoJ9JRCCG9g=w2400"
+    ],
+    "palette": [
+      "https://lh5.googleusercontent.com/4WgwMYO9Eave2RQYEHLYTUndevOt4waOkmQnLlHjbR1tMcMdQuAU2vF1SoJ9JRCCG9g=w2400"
+    ]
+  },
+  {
+    "id": "ce733788-1018-49b0-9256-33bafde24372",
+    "factoryCode": "826",
+    "name": "Set Smoothly",
+    "description": "Compact Powder",
+    "category": "Face",
+    "type": "Powder",
+    "imgs": [
+      "https://lh3.googleusercontent.com/eZ9-PU7cS2TZxzubeBObY3298zgep7rNqdjU4E5XnmFVALkY0OjD-NsuIDqJPePUfok=w2400",
+      "https://lh3.googleusercontent.com/oZt0KKsPxW-5NuxUhNh3WkgcL-bZrjVk51E55GWQtv9zbKm5sHFuxInYblRZMN3hm14=w2400"
+    ],
+    "palette": [
+      "https://lh3.googleusercontent.com/eZ9-PU7cS2TZxzubeBObY3298zgep7rNqdjU4E5XnmFVALkY0OjD-NsuIDqJPePUfok=w2400"
+    ]
+  },
+
+  {
+    "id": "4a88e96a-e4dd-4751-8531-71b7cc0ebc15",
+    "factoryCode": "S225",
+    "name": "Daze Glaze",
+    "description": "Perfection Foundation Cream Long\n  Lasting Full Cover",
+    "category": "Face",
+    "type": "Foundation",
+    "imgs": [
+      "https://lh6.googleusercontent.com/sPHlWScwIEnaEMmleC9YlpKze7hnyFO-fl92GgRVHm6gjh5TaSc4vyPsH_UDE6UlMOI=w2400",
+      "https://lh3.googleusercontent.com/ubKy0Y8kXzBpafzhmGID-tRJ5wChFyofEvZXXMJXIG-XmuQVPPo7NZZ2iopbqMOo0iE=w2400"
+    ]
+  },
+
+  {
+    "id": "a9615e50-c0f3-45ee-9fe1-845cee0044f8",
+    "factoryCode": "2122",
+    "name": "Glided Perfection",
+    "description": "Concealer Stick",
+    "category": "Eyes",
+    "type": "Concealer",
+    "imgs": [
+      "https://lh3.googleusercontent.com/w7cVcDpa7g1a1nUtDHjjyAs-WduzQRyzt8A0HWyQgWOxgWkcMIiiXG7tCJGuCURYRGE=w2400",
+      "https://lh3.googleusercontent.com/Jmy2nrEr9H-ofOZUD0L20wDsSHKi2Xyc0Bz9V-CGfwm3BrCcLzBpVKgdA640dVXKYZU=w2400"
+    ],
+    "palette": [
+      "https://lh3.googleusercontent.com/w7cVcDpa7g1a1nUtDHjjyAs-WduzQRyzt8A0HWyQgWOxgWkcMIiiXG7tCJGuCURYRGE=w2400"
+    ]
+  },
+  {
+    "id": "5916846c-f61b-492e-bf8f-aa3599722faa",
+    "factoryCode": "KF8236",
+    "name": "Glam Alert",
+    "description": "Blusher",
+    "category": "Face",
+    "type": "Blusher",
+    "imgs": [
+      "https://lh5.googleusercontent.com/UB6KdPDjwhrXDVm6-6zaDsZrjBh2w4k1hJSEFGz59uz-8-USb7TUtvXzs7mruxIZCRI=w2400"    ],
+    "palette": [
+      "https://lh5.googleusercontent.com/UB6KdPDjwhrXDVm6-6zaDsZrjBh2w4k1hJSEFGz59uz-8-USb7TUtvXzs7mruxIZCRI=w2400"
+    ]
+  },
+  {
+    "id": "7dd33e25-4fcc-4b85-b63c-5be4b3164cee",
+    "factoryCode": "9972-FS",
+    "name": "Four-Leaf Clover",
+    "description": "Compact Blush",
+    "category": "Face",
+    "type": "Blusher",
+    "imgs": [
+      "https://lh4.googleusercontent.com/yaUZVVa9aZiI3G95ME3DW9Q6wP4jQDOB1L1katAet9vh6aL6f7oI65jOWEBg03HlHKo=w2400",
+      "https://lh4.googleusercontent.com/WEEX1sHu5_c4WJ3w0shmfzHt1yFwV70DuaOhVUc9-tTvXz-wcZ5xRREva-od5_oaQZE=w2400"
+    ],
+    "palette": [
+      "https://lh4.googleusercontent.com/yaUZVVa9aZiI3G95ME3DW9Q6wP4jQDOB1L1katAet9vh6aL6f7oI65jOWEBg03HlHKo=w2400"
+    ]
+  },
+  {
+    "id": "5dcc9726-1d51-4a02-9778-d8a659c73850",
+    "factoryCode": "9975-HS",
+    "name": "Rosey Gleam",
+    "description": "Compact Blush",
+    "category": "Face",
+    "type": "Blusher",
+    "imgs": [
+      "https://lh5.googleusercontent.com/HTHtPOn0HISaHA1OUbs4zzePV3cLQCgltXL1HN9W7idFhjmN_4tYw0y8G4aJA4taHGE=w2400",
+      "https://lh5.googleusercontent.com/efB7Fw8zkAgO57sSMcGd1UzwPw2kyCG39_NrnNll0foLCtBncQ3lEWoFG40ZNvYGAFs=w2400"
+    ],
+    "palette": [
+      "https://lh5.googleusercontent.com/efB7Fw8zkAgO57sSMcGd1UzwPw2kyCG39_NrnNll0foLCtBncQ3lEWoFG40ZNvYGAFs=w2400"
+    ]
+  },
+  {
+    "id": "b8190fe3-fa36-4182-831e-4c6048d5f04c",
+    "factoryCode": "8822",
+    "name": "Buffed & Bougie",
+    "description": "Eyeshadow",
+    "category": "Eyes",
+    "type": "Eyeshadow",
+    "imgs": [
+      "https://lh4.googleusercontent.com/mMI5SrTlLBrYXfB6_hQV69xGJIhKfyqESyFCFF73WvD9I7He-oFrq5qgImRh3fhwWOQ=w2400",
+      "https://lh3.googleusercontent.com/_NhKuw9khPZ1pdwlnErh6KzupcSxzruo7hP4Y2Yq8cUpKRCyerj6HwwGoDSQomjJxZU=w2400"
+    ]
+  },
+  {
+    "id": "e6c760f7-da2d-4323-91e9-4a3c354d094d",
+    "factoryCode": "3018",
+    "name": "Dual Recognition",
+    "description": "Eyebrow Powder",
+    "category": "Eyes",
+    "type": "Eyebrow",
+    "imgs": [
+      "https://lh5.googleusercontent.com/YwYBsGJW7ZB1UY4BB3L9tRGJEPIH-AZ7K1a03620Z-J2ig2o0QX-DJlgj3vT_q38nWM=w2400"    ]
+  },
+  {
+    "id": "d76de340-f18f-426a-be13-ae0821d88e59",
+    "factoryCode": "L6894-HS",
+    "name": "Genius Genie",
+    "description": "Lipgloss",
+    "category": "Lips",
+    "type": "Lipgloss",
+    "imgs": [
+      "https://lh5.googleusercontent.com/a_q2ECadvIlnzM9I3AxjNpscsIuZ5KVlvPhGciYXRZaAyjkexDzjVhfp0gRykvkBjbU=w2400",
+      "https://lh5.googleusercontent.com/PLpR1rm5NrmY1acNj1spwmXPHbaAUDB8fjKjGHOf-X4eH3P15gDeE7i_X3I6HgkG_Ac=w2400"
+    ],
+    "palette": [
+      "https://lh5.googleusercontent.com/a_q2ECadvIlnzM9I3AxjNpscsIuZ5KVlvPhGciYXRZaAyjkexDzjVhfp0gRykvkBjbU=w2400"
+    ]
+  },
+  {
+    "id": "cc382a19-5966-45b0-b581-a0992f9a5e78",
+    "factoryCode": "L6902-HS",
+    "name": "Paint Pigmentation",
+    "description": "Lipgloss",
+    "category": "Lips",
+    "type": "Lipgloss",
+    "imgs": [
+      "https://lh6.googleusercontent.com/LstYSc6qhe0Q5cC5jHRyiQ2vlvkDlMWc9YF0rQbtkCxT5mE1CbSRVN4y6HGGadBdlic=w2400"    ],
+    "palette": [
+      "https://lh6.googleusercontent.com/LstYSc6qhe0Q5cC5jHRyiQ2vlvkDlMWc9YF0rQbtkCxT5mE1CbSRVN4y6HGGadBdlic=w2400"
+    ]
+  },
+  {
+    "id": "a25a4af3-1f6a-462d-b214-d3e2bc1e0708",
+    "factoryCode": "L8112-HS",
+    "name": "Gypsy Drama",
+    "description": "Lipstick",
+    "category": "Lips",
+    "type": "Lipstick",
+    "imgs": ["https://lh6.googleusercontent.com/a7NwH0kQcNocDAdjQz7LctQgH1UbBl_K-GS785YWB1StjKmv2nwzmDIBvC4iJxcqqZY=w2400"],
+    "palette": [
+      "https://lh6.googleusercontent.com/a7NwH0kQcNocDAdjQz7LctQgH1UbBl_K-GS785YWB1StjKmv2nwzmDIBvC4iJxcqqZY=w2400"
+    ]
+  },
+
+  {
+    "id": "d9a7785f-dfa4-4356-9168-fd53193b849c",
+    "factoryCode": "E9772",
+    "name": "Middle Eastern Royals",
+    "description": "Eyeliner",
+    "category": "Eyes",
+    "type": "Eyeliner",
+    "imgs": [
+      "https://lh4.googleusercontent.com/zj7vR8EQff3UOAFB9ywpYH7jWuFQnqGL8-PI_885495G9eiTv_TYYfNRYKcNbuS2p4o=w2400"
+    ]
+  },
+  {
+    "id": "35f7d5bf-e144-40e8-b040-b05256a6bb2f",
+    "factoryCode": "M2071-1",
+    "name": "Extremely Graceful",
+    "description": "Mascara",
+    "category": "Eyes",
+    "type": "Mascara",
+    "imgs": [
+      "https://lh3.googleusercontent.com/CNzPWgMUqPfdLjxJbFnDTyDDiuDaGtNKD2cCMVAnFsvVadVhl4AoSNHZve2if_AlcUQ=w2400"    ]
+  },
+  {
+    "id": "8d89a52a-f645-46fb-b60c-e70472874bf6",
+    "factoryCode": "L6918",
+    "name": "Word Twister",
+    "description": "Lipgloss",
+    "category": "Lips",
+    "type": "Lipgloss",
+    "imgs": [
+      "https://lh3.googleusercontent.com/n9M8OSdH-X0utfs9gY9Nyj8ztVwYJoEmLhgKV-U5cYVmBS4nzeLSLnEF_U19wNGIH9g=w2400",
+      "https://lh4.googleusercontent.com/GM_v0OMdmqwa8waQPkVs2uY0wE501jvq02SAaFPioV3ys8CEd7_MIC44Vv99cHCeE3c=w2400"
+    ]
+  },
+  {
+    "id": "07fc0fa7-7c81-49ff-b089-40583131e6f9",
+    "factoryCode": "KF8265-FS",
+    "name": "Doses of Roses",
+    "description": "Blush",
+    "category": "Face",
+    "type": "Blusher",
+    "imgs": [
+      "https://lh6.googleusercontent.com/SQJUWZ3i80L3quacYpOwocuoIzMWsTvjCANWLPaTC3knJ5H2LcE1KvSq4XyxSaBZzqM=w2400"    ]
+  },
+  {
+    "id": "b0ea0791-c370-4aff-a146-64841a015a88",
+    "factoryCode": "P001",
+    "name": "Packed Perfection",
+    "description": "Lipstick",
+    "category": "Lips",
+    "type": "Lipstick",
+    "imgs": [
+      "https://lh5.googleusercontent.com/FmFRJzOkDHZomu8qmt6BDNyokDqeWvGH_iJ3tXqzIyeEHuy_f9xrce_K2Ajr4STlg8U=w2400"
+    ]
+  },
+  
+  {
+    "id": "7f4b8734-6429-4b01-aa7d-fd1dcaa8f1c7",
+    "factoryCode": "L8148-FS",
+    "name": "5 in a Row",
+    "description": "Lipstick",
+    "category": "Lips",
+    "type": "Lipstick",
+    "imgs": [
+      "https://lh5.googleusercontent.com/j2BXl8VlG16gPU5SNSl4HmL2axUqoBGPEUPW8GyhPenM8CYThJo2q4t6V7fxIN_vvaQ=w2400"
+    ]
+  },
+  {
+    "id": "b12ccbdd-b387-4c7e-b6ba-80fc6d43a49b",
+    "factoryCode": "0849-SN",
+    "name": "Sleek Aura",
+    "description": "Compact Powder",
+    "category": "Face",
+    "type": "Powder",
+    "imgs": [
+      "https://lh6.googleusercontent.com/WE3UVXCukuLg1musyAqAAZtLZ89pBdgE-fssnYWwSjpLxrCuHNvPuRYE8SIqhPd8-9s=w2400"
+    ]
+  },
+
+  {
+    "id": "2f97e1af-4724-46fb-9b71-b4c6f916b27b",
+    "factoryCode": "9923-HS",
+    "name": "Main Girl",
+    "description": "Blush",
+    "category": "Face",
+    "type": "Blusher",
+    "imgs": [
+      "https://lh4.googleusercontent.com/Hlyv6zAmbcKeVwu9w7iKYP3N9yZMlsg3ADTBg4X_C2M8dbOWT25aE7HpHK5apdcABss=w2400"
+    ]
+  },
+  {
+    "id": "112aaf44-e670-4fe7-9299-37033494472c",
+    "factoryCode": "5080",
+    "name": "Fit Kit",
+    "description": "Contour",
+    "category": "Face",
+    "type": "Contour",
+    "imgs": [
+      "https://lh5.googleusercontent.com/0V9_YmNjQWD93T3axyz3wRQPY-FeHShg_DEXqj-m1DvwFDguxsnNfhs8pzmy28w55uw=w2400",
+      "https://lh6.googleusercontent.com/LUkQHS1h9A6ETaM_DngPfYPOK8hHsRVQNcGH7iAxFb0gTwglJ5iC9pzXJyQkVUWoTM0=w2400"
+    ],
+    "palette": [
+      "https://lh6.googleusercontent.com/LUkQHS1h9A6ETaM_DngPfYPOK8hHsRVQNcGH7iAxFb0gTwglJ5iC9pzXJyQkVUWoTM0=w2400"
+    ]
+  },
+  {
+    "id": "b988515d-11b3-427c-a398-f8b7c7f363d0",
+    "factoryCode": "8831",
+    "name": "Mermaid Trail",
+    "description": "Highligther",
+    "category": "Face",
+    "type": "Highlighter",
+    "imgs": [
+      "https://lh4.googleusercontent.com/L-ghpm3Y-pooPyNGxuLvJjsPRd6wtIPAfOG_vbRciQ1hg4VhI3SXaebdO43gq0oR89A=w2400"    ]
+  },
+  {
+    "id": "a105dd99-463e-422b-8215-8ae18e1f2a34",
+    "factoryCode": "8838",
+    "name": "Blick Buster Palettes",
+    "description": "Eyeshadow",
+    "category": "Eyes",
+    "type": "Eyeshadow",
+    "imgs": [
+      "https://lh5.googleusercontent.com/zrRuNxjLODHXKDh4SftWmqgouk7-tg32jjN7CNmjLnRsqkR4YlnzamnNHrUHCGrPGWQ=w2400",
+      "https://lh4.googleusercontent.com/ZVMfM3gVNKTkLnMAsHu0FjTBk9IllELnP9pQYaxPzNHxPu0gt_czkz36Qnl9qvseLMY=w2400"
+    ]
+  },
+  {
+    "id": "d01c81b6-9c09-438f-844d-0bc569a3669f",
+    "factoryCode": "8843",
+    "name": "February",
+    "description": "Eyeshadow",
+    "category": "Eyes",
+    "type": "Eyeshadow",
+    "imgs": [
+      "https://lh5.googleusercontent.com/fdT-FG2GQJxN7HMJoZtaBp6SETxXhrDr_BK1wm6ZEVIQkQ5SaLY9JpB4e82iKgXRICc=w2400"
+    ]
+  },
+  {
+    "id": "23834d52-618b-460f-9480-f90b1947133c",
+    "factoryCode": "8832",
+    "name": "Diplomat",
+    "description": "Eyeshadow",
+    "category": "Eyes",
+    "type": "Eyeshadow",
+    "imgs": [
+      "https://lh3.googleusercontent.com/61tzjU82OwUycwZ-dvkJOeCWJO6it_zyZ2kuPBkKTfci5R4dk7E3dfFacrcmBWuKpVI=w2400",
+      "https://lh4.googleusercontent.com/zr7xKeqZueHMIovzNqOVcAM9cI6UpNlkC9gXaz27gVsXaynmfhquXgcbKdws-9nBWvU=w2400"
+    ]
+  },
+  {
+    "id": "e4b3e72d-db15-4c10-aa05-154479f546d8",
+    "factoryCode": "D7165",
+    "name": "Copy n' Paste",
+    "description": "Long Wear Eye Liner\n  Powder Water Soluble",
+    "category": "Eyes",
+    "type": "Eyeliner",
+    "imgs": [
+      "https://lh6.googleusercontent.com/JhLA4S-Bb5frcoAxtXQS4JwOyVU1mmPykpSftqcw1JGSDIEY79kopsgamLFlpuE5dnw=w2400"    ]
+  },
+  {
+    "id": "f6a99b54-89d2-48dc-a8b0-5c73604446ac",
+    "factoryCode": "PW058",
+    "name": "Bippity Boppity Bright!",
+    "description": "Finish Powder Palette",
+    "category": "Face",
+    "type": "Powder",
+    "imgs": [
+      "https://lh6.googleusercontent.com/x8QHFjVDoSzLJ7FnlNsERLGqsG9m0JNxVWibwauiNgN1u40gmokNR9pDMk_qq2Zf8vk=w2400",
+      "https://lh3.googleusercontent.com/Dr5KBBOXy0soyv_H2W583TXcwMctHzy7uqaL5yVBu2-AO8_YgBSkPEK7uqcb5htGo-g=w2400"
+    ]
+  },
+  {
+    "id": "0a516eed-ea3c-4502-ab53-8f1e0190b52c",
+    "factoryCode": "1823",
+    "name": "Millenial Unicorn",
+    "description": "Highlighter Powder",
+    "category": "Face",
+    "type": "Highlighter",
+    "imgs": [
+      "https://lh5.googleusercontent.com/1vh7EXSpV6fj2WbytMGAvsaPJXfWnpUY2waZeIxzPn5VcV4PIxU9SncALSwPnWdjXTY=w2400"    ]
+  },
+  {
+    "id": "3b45c38f-c00a-4f0c-9ca0-796b6625f69a",
+    "factoryCode": "H161",
+    "name": "Glassy Primer",
+    "description": "Primer Foundation",
+    "category": "Face",
+    "type": "Foundation",
+    "imgs": [
+      "https://lh5.googleusercontent.com/Z40qY4a5RAXWq3_bczDfgjpuY9uYTjpTnJzXBQ3hxlFl_B8t25Kd0Z5eCtOWOhTsZtY=w2400"    ]
+  },
+  {
+    "id": "857004f5-ee85-4d94-a622-ca9909ea89f6",
+    "factoryCode": "PW-06",
+    "name": "Facile Brow",
+    "description": "Eyebrow pencil",
+    "category": "Eyes",
+    "type": "Eyebrow",
+    "imgs": [
+      "https://lh4.googleusercontent.com/f9XkdVat-3A4zRVoIZG48uN1aGX7lGsS2DHoEiv-6rKUYSNqxwBeWqhmnCWNJD4INiw=w2400"    ]
+  },
+  {
+    "id": "f214ce99-2f1d-40f2-8a9c-ec6b273af74d",
+    "factoryCode": "M5057",
+    "name": "Wanton Eyeliner",
+    "description": "Eyeliner water proof",
+    "category": "Eyes",
+    "type": "Eyeliner",
+    "imgs": [
+      "https://lh3.googleusercontent.com/6DeqSH0dZfcEsvQeh5lOReaCBq2l3blbRbWnim3Ek8lrF9qmemAd91TbtREDl3IxbUE=w2400"    ]
+  },
+  {
+    "id": "95bfb643-9975-476f-aa96-9726ed737bff",
+    "factoryCode": "M5091",
+    "name": "Deep Liner",
+    "description": "Deep Liner",
+    "category": "Eyes",
+    "type": "Deep Linear",
+    "imgs": [
+      "https://lh4.googleusercontent.com/jvyj_yuPGC1a52IFGU_ZMoywLHwNrw6ForPSok9PB6gOoeN0wozfiqByWBs_ntT4Zmo=w2400"    ]
+  },
+  {
+    "id": "ea4bed48-0bc7-46b3-afd5-b02a5048cf93",
+    "factoryCode": "PW-12",
+    "name": "Ink Liner",
+    "description": "Ink liner",
+    "category": "Eyes",
+    "type": "Eyeliner",
+    "imgs": [
+      "https://lh3.googleusercontent.com/0YBn7kASvdqjD07eYFybaClfdSIzbCT5CtmPwbvBykw8ReGPUzwkqaNSpf4yY2jKCUU=w2400"    ]
+  },
+  {
+    "id": "df5038f3-4fac-48cf-ba4a-28555d9e5f96",
+    "factoryCode": "M4080",
+    "name": "Shine Concealer",
+    "description": "Shine Concealer",
+    "category": "Eyes",
+    "type": "Concealer",
+    "imgs": [
+      "https://lh6.googleusercontent.com/IfuSGoG5ChZ_rIW9Tt6rDyJerCQS2X4s7-v7cnF6MXBPPBA5AaxFfAZWT00snwYuE0c=w2400"    ]
+  },
+  {
+    "id": "2ad69c3a-ecdd-464c-b305-78012b6eb876",
+    "factoryCode": "MM2012",
+    "name": "Ball Bearing Concealer Stick",
+    "description": "Concealer Cream",
+    "category": "Eyes",
+    "type": "Concealer",
+    "imgs": [
+      "https://lh3.googleusercontent.com/KzEafXSjuAs2kZDak1bLfq0pzLrmYXyfnsihe9_7W_oJRgd0WnelQwdFHt6x2Uow1D0=w2400"    ]
+  },
+  {
+    "id": "8a89d943-0e42-412f-84b6-4b1bb0e577f2",
+    "factoryCode": "M4003",
+    "name": "Mousse Fuse",
+    "description": "MOUSSE FOUNDATION",
+    "category": "Face",
+    "type": "Foundation",
+    "imgs": [
+      "https://lh6.googleusercontent.com/8s61qa4ZcXygOtF-HrLiO1rliOYHUOWfYNhJD5wvEM9DUsFDXdxm-M2GOyw6qEbn-Zo=w2400"    ]
+  },
+  {
+    "id": "9ad97f9d-9d50-45c2-8e0f-8cf1eed4ce9a",
+    "factoryCode": "H163",
+    "name": "Double Duty Beauty",
+    "description": "BB Foundation Cream",
+    "category": "Face",
+    "type": "Foundation",
+    "imgs": [
+      "https://lh5.googleusercontent.com/_1Ar6jvJKokBKiwr6JdDW6nDrtfS_nXpLdZ7ehruzXLak5AmmgbABgvtIKErK4BFU-U=w2400"    ]
+  },
+  {
+    "id": "7a7393c9-c75b-4987-9854-98cde9cdcc26",
+    "factoryCode": "M5093",
+    "name": "Moisturize & Conceal",
+    "description": "Foundation Cream",
+    "category": "Face",
+    "type": "Foundation",
+    "imgs": [
+      "https://lh3.googleusercontent.com/wd3-ePVnE9Z-giNt0gn7UsKDbj4sVQj64Q882zOZm39hjP07wHmhGUm0ZA5kxq7yU78=w2400"    ]
+  },
+  {
+    "id": "510a17d8-b438-4e24-8d55-aeff9d07704f",
+    "factoryCode": "M5086",
+    "name": "TeamPlayer",
+    "description": "Eyebrow Pencil",
+    "category": "Eyes",
+    "type": "Eyebrow",
+    "imgs": [
+      "https://lh4.googleusercontent.com/Mrgrun8DPG2o4mAy8Nu6sTXmRgFnw-Kt_kr6dMJbZQXnK45_hJuhIWH0II10gBL-nmw=w2400"    ]
+  },
+  {
+    "id": "c241bb9e-c124-4165-b905-ab918b7f0f18",
+    "factoryCode": "L6885",
+    "name": "Cashmere sensation",
+    "description": "-",
+    "category": "Lips",
+    "type": "Lipgloss",
+    "imgs": ["https://lh3.googleusercontent.com/ZD7D84uZMxepUAXdaej7sgaeSaPwsbb9U3TRJJ14brhNyjfQm0aNySt9I__7yPX4H3U=w2400"]
+  },
+  {
+    "id": "ca226f35-e312-4e1a-8fa0-47f460708f7c",
+    "factoryCode": "PW510BL",
+    "name": "Sea Creature",
+    "description": "-",
+    "category": "Eyes",
+    "type": "Mascara",
+    "imgs": [
+      "https://lh4.googleusercontent.com/tOJnrVOuTUvk0jjtYTbaBOotBTOZjamFFcNaggDL2GcyYdLSqZLvzUA71YPTENCydWU=w2400"    ]
+  },
+  {
+    "id": "744aa4e5-a9f7-4d48-a99c-3f67a426c64d",
+    "factoryCode": "PW501C",
+    "name": "Ochre",
+    "description": "-",
+    "category": "Eyes",
+    "type": "Mascara",
+    "imgs": [
+      "https://lh3.googleusercontent.com/9QBpw6AQtp9cWMClKeIdoqd2v1c0kY2WVQQHhK1wBa9ei05Po5_gxIom5fscwnFqljU=w2400"    ]
+  },
+  {
+    "id": "6d2f125c-734a-44a9-8578-9bd3462e2db0",
+    "factoryCode": "8215",
+    "name": "Six o`clock",
+    "description": "Eye Shadow",
+    "category": "Eyes",
+    "type": "Eyeshadow",
+    "imgs": [
+      "https://lh5.googleusercontent.com/Y1gRv0WGX-1z65aYqY_OGVvMNGOLzAlkmzxbqlyYLMImX9FgB9UKc19eHlCSyttvNAc=w2400",
+      "https://lh3.googleusercontent.com/ruwUzvMpIqIWN6PuriejMSxv9E7ytkJ0oIvde_nL9Z2gpBIvfwCGcljePuUtRZHpqXw=w2400"
+    ]
+  },
+  {
+    "id": "3cda3c7f-d757-4e62-aae2-130059a2eaa7",
+    "factoryCode": "L8081-FS",
+    "name": "24/Seven",
+    "description": "Lipgloss",
+    "category": "Lips",
+    "type": "Lipgloss",
+    "imgs": [
+      "https://lh4.googleusercontent.com/yN_mM9Ebd4le39AUdtYaBE7PE_Kq2xS_abWKfL2LpI3MuaNZ32-H_vKC7Fb9jkRMEeE=w2400"
+    ]
+  },
+  {
+    "id": "3cda3c7f-d757-4e62-aae2-130059a2eak7",
+    "factoryCode": "L6820",
+    "name": "Liquid Promises",
+    "description": "Lipgloss",
+    "category": "Lips",
+    "type": "Lipgloss",
+    "imgs": [
+      "https://lh6.googleusercontent.com/tJ0VF7iCGlIRQek1TwY3LIiG-PYot9vTdhE7fZ_pzDlroKkwH9mEBtwgxUzKUio-X4E=w2400"
+    ]
+  },
+  {
+    "id": "3cda3c7f-d757-4e62-aae2-130059a2eba7",
+    "factoryCode": "L8047",
+    "name": "Golden Era",
+    "description": "Lipstick",
+    "category": "Lips",
+    "type": "Lipstick",
+    "imgs": [
+      "https://lh4.googleusercontent.com/XkbCYo4dmDAHXK4atn3bzl-85YVdC6oSjk4YuUhbxuClww1jnXoXH6tWKCbIC-n8uok=w2400"
+    ]
+  },
+  {
+    "id": "3cda3c7f-d757-4e62-aae6-130059a2eba7",
+    "factoryCode": "L893-1",
+    "name": "Online Shopper",
+    "description": "Lipstick",
+    "category": "Lips",
+    "type": "Lipstick",
+    "imgs": [
+      "https://lh3.googleusercontent.com/GGwY_AsFob2nXVS2hemLVvi0zk6V4e6G7zRoHjAS4wdq39uYD0ZvuKJjyWEwdcvlgeg=w2400"
+    ]
+  },
+  {
+    "id": "3cda3c7f-d757-4e62-aae6-130059a9eba7",
+    "factoryCode": "M9006",
+    "name": "Timeless Beauty",
+    "description": "Lipstick",
+    "category": "Lips",
+    "type": "Lipstick",
+    "imgs": [
+      "https://lh4.googleusercontent.com/kFMNOmpBcelehSgUFb4mSCULXNohJlI_4_mYb8SUk4nHr3WD56WTmIcAPTBIjPI8NfM=w2400"
+    ]
+  },
+  {
+    "id": "3cda3c7f-d757-4e62-aae6-180059a9eba7",
+    "factoryCode": "M9006",
+    "name": "Packed Perfection",
+    "description": "Lipstick",
+    "category": "Lips",
+    "type": "Lipstick",
+    "imgs": [
+      "https://lh3.googleusercontent.com/NeKIn4YsdkCZ5dF7JSol1kzU0eF4jYcTt2ykfZLRQLqH8Vojd78n4EkWQtRiXNL7CdU=w2400"
+    ]
+  }
+]
